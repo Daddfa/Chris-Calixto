@@ -1,0 +1,7 @@
+# Minimal Jekyll configuration
+# Documentation: https://jekyllrb.com/docs/configuration/
+
+# Site settings
+title: My Site
+baseurl: 
+url: "https://username.github.io/repo"
